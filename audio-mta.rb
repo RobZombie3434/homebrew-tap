@@ -8,7 +8,7 @@ class AudioMta < Formula
   url "https://github.com/RobZombie3434/audio-mta/archive/refs/tags/v0.1.0.tar.gz"
   
   # Replace with the sha256 checksum of your v0.1.0 release tarball
-  sha256 "REPLACE_WITH_ACTUAL_SHA256" 
+  sha256 "72627342d51b776156e0e5d76b6c85974b74b79f7d46da599546fd219d1eae1c" 
   
   license "MIT"
 
